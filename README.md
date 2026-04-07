@@ -1,4 +1,4 @@
-# MNIST Digit Classifier (Streamlit)
+# MNIST Digit Classifier 
 
 This project deploys a CNN trained on MNIST digits using Streamlit.  
 You can either upload a digit image or draw one on a canvas, and the model will predict the digit.
